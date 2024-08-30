@@ -1,0 +1,14 @@
+.channel-theater-stream-info {
+    display: none !important;
+}
+
+.vjs-control-bar {
+    opacity: 1 !important;
+    transition: opacity 0.5s ease !important;
+}
+
+.vjs-control-bar:hover {
+    opacity: 0 !important;
+}
+
+
